@@ -1,9 +1,9 @@
 # TitlebarColorGradient
-透明状态栏+渐变标题栏（透明状态栏可以去掉没有影响）。筛选控件的使用。这是一个Module而不是一个project。
+透明状态栏+渐变标题栏（透明状态栏可以去掉没有影响）。筛选控件的使用。
 
 引用自：https://github.com/sfsheng0322/StickyHeaderListView
 
-![图片](https://github.com/sfsheng0322/StickyHeaderListView/raw/master/screenshots/stickyheader2.gif)
+![图片](https://github.com/yueyue10/TitlebarColorGradient/blob/master/Screenshot_20191127-110650.jpg?raw=true)
 
 根据上面的工程修改而来。down下来以后还需要修改一些配置。
 
